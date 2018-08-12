@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from '../../../../../Library/Caches/typescript/2.9/node_modules/@types/react';
 
 import Order from '../../components/Order/Order';
 import axios from '../../axios-orders';

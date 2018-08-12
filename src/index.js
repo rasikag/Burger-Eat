@@ -1,7 +1,7 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import { BrowserRouter } from 'react-router-dom';
-import { Provider } from 'react-redux';
+import React from '../../../Library/Caches/typescript/2.9/node_modules/@types/react';
+import ReactDOM from '../../../Library/Caches/typescript/2.9/node_modules/@types/react-dom';
+import { BrowserRouter } from '../../../Library/Caches/typescript/2.9/node_modules/@types/react-router-dom';
+import { Provider } from '../../../Library/Caches/typescript/2.9/node_modules/@types/react-redux';
 import { createStore } from 'redux';
 
 import './index.css';

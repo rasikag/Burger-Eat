@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
-import { Route } from 'react-router-dom';
-import { connect } from 'react-redux';
+import React, { Component } from '../../../../../Library/Caches/typescript/2.9/node_modules/@types/react';
+import { Route } from '../../../../../Library/Caches/typescript/2.9/node_modules/@types/react-router-dom';
+import { connect } from '../../../../../Library/Caches/typescript/2.9/node_modules/@types/react-redux';
 
 import CheckoutSummary from '../../components/Order/CheckoutSummary/CheckoutSummary';
 import ContactData from './ContactData/ContactData';

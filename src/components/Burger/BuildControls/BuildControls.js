@@ -1,4 +1,4 @@
-import React from 'react';
+import React from '../../../../../../Library/Caches/typescript/2.9/node_modules/@types/react';
 
 import classes from './BuildControls.css';
 import BuildControl from './BuildControl/BuildControl';
