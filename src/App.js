@@ -1,5 +1,5 @@
-import React, { Component } from '../../../Library/Caches/typescript/2.9/node_modules/@types/react';
-import { Route, Switch } from '../../../Library/Caches/typescript/2.9/node_modules/@types/react-router-dom';
+import React, { Component } from 'react';
+import { Route, Switch } from 'react-router-dom';
 
 import Layout from './hoc/Layout/Layout';
 import BurgerBuilder from './containers/BurgerBuilder/BurgerBuilder';

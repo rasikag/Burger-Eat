@@ -1,5 +1,5 @@
-import React, { Component } from '../../../../../Library/Caches/typescript/2.9/node_modules/@types/react';
-import { connect } from '../../../../../Library/Caches/typescript/2.9/node_modules/@types/react-redux';
+import React, { Component } from 'react';
+import { connect } from 'react-redux';
 
 import Aux from '../../hoc/Aux/Aux';
 import Burger from '../../components/Burger/Burger';

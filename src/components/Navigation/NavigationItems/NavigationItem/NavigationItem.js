@@ -1,5 +1,5 @@
-import React from '../../../../../../../Library/Caches/typescript/2.9/node_modules/@types/react';
-import { NavLink } from '../../../../../../../Library/Caches/typescript/2.9/node_modules/@types/react-router-dom';
+import React from 'react';
+import { NavLink } from 'react-router-dom';
 
 import classes from './NavigationItem.css';
 
